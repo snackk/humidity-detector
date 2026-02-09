@@ -44,4 +44,4 @@ const int ADC_WET = 423;   // Wet
 ## 📄 License
 MIT License - Free to use, give credit.
 
-	Written by [@snackk](https://github.com/snackk)
+Written by [@snackk](https://github.com/snackk)
